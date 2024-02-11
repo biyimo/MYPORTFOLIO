@@ -13,7 +13,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedinIn size={30}/>
                 </>
             ), 
-            href: 'https://linkedin.com',
+            href: 'https://www.linkedin.com/in/biyi-olamilekan-379827200/',
             style: 'rounded-tr-md'
         },
         {
@@ -41,7 +41,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill  size={30}/>
                 </>
             ), 
-            href: '/resume.docx',
+            href: '/resume.docx', 
             style: 'rounded-br-md',
             download: true,
         }

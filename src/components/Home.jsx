@@ -1,10 +1,10 @@
 import React from 'react'
-import HeroImage from "../assets/heroImage.png"
+// import HeroImage from "../assets/heroImage.png"
 import { MdKeyboardArrowRight } from 'react-icons/md'
 import {Link} from "react-scroll"
 
 const Home = () => {
-  return (
+  return (  
     <div 
         name="home" 
         className=' h-screen w-full bg-gradient-to-b from-black via-black to-gray-800'>
@@ -13,8 +13,8 @@ const Home = () => {
                 <h2 className='text-4xl sm:text-7xl font-bold text-white hover:text-cyan-500 duration-700'>
                     I am a Full Stack Developer
                 </h2>
-                <p className='text-gray-500 py-4 max-w-md'>
-                    I have recently jsut embarked on this journey because I love to work on web application using technologies like React, Tailwind, Next JS and GraphQL.
+                <p className='text-gray-500 py-6 max-w-md'>
+                I have recently initiated an exciting journey driven by my passion for crafting web applications. My focus revolves around employing cutting-edge technologies such as React, Tailwind, Next.js, and GraphQL to create innovative digital solutions.
                 </p>
 
                 <div>
@@ -27,9 +27,9 @@ const Home = () => {
                 </div>
             </div>
 
-            <div>
+            {/* <div>
                 <img src={HeroImage} alt="my profile" className='rounded-2xl mx-auto w-2/3 md:w-full' />
-            </div>
+            </div> */}
        </div>
     </div>
   )
