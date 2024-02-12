@@ -10,8 +10,7 @@ const About = () => {
             </div>
 
             <p className='text-xl mt-20'> 
-            I bring a proven track record in accounting, excelling in areas such as account payables, account receivable, balance sheets, and detailed management reporting. My commitment lies in delivering high-quality services while actively supporting the department's objectives and advancing the company's overarching goals. Moreover, I am passionate about venturing into full-stack development, aiming to merge my accounting expertise with burgeoning skills in this field to make substantial contributions to diverse projects
-            </p>
+            In the fast-paced world of technology, my journey is driven by a proven record of delivering top-notch services while staying true to the company's goals. Now, my excitement for full-stack development ignites as I blend my accounting expertise with newfound skills. As a full stack developer, I seamlessly navigate both frontend and backend realms, crafting user-friendly interfaces and building strong systems. Beyond just code, I thrive on connecting different fields, sparking innovation across projects. With a heart set on making a real impact, I'm ready to dive into the dynamic tech world, shaping tomorrow's solutions with passion and dedication.            </p>
             
             <br />
             
