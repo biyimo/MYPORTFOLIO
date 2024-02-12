@@ -14,10 +14,6 @@ const About = () => {
             </p>
             
             <br />
-
-            <p className='text-xl'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut cupiditate ex, fugiat, dolores quas recusandae esse temporibus sequi est explicabo fuga doloremque dolore inventore, error cumque aliquam repellendus qui? Enim accusamus repellat corporis reprehenderit qui fuga! Nemo, ullam, nesciunt magni minima perspiciatis, quos consequatur quo explicabo atque nam itaque id.
-            </p>
             
         </div>
     </div>
