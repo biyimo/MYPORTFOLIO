@@ -10,10 +10,7 @@ const About = () => {
             </div>
 
             <p className='text-xl mt-20'> 
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                A nisi amet ad assumenda qui consequatur sint fugiat recusandae fugit nesciunt nobis iste pariatur quis deserunt, 
-                illum quidem atque necessitatibus corrupti temporibus culpa. Adipisci enim illum suscipit minus doloremque autem cupiditate, 
-                praesentium pariatur eligendi debitis delectus accusantium harum, et eveniet. Soluta quia dicta exercitationem iure minima eum ut pariatur debitis quidem?
+            I bring a proven track record in accounting, excelling in areas such as account payables, account receivable, balance sheets, and detailed management reporting. My commitment lies in delivering high-quality services while actively supporting the department's objectives and advancing the company's overarching goals. Moreover, I am passionate about venturing into full-stack development, aiming to merge my accounting expertise with burgeoning skills in this field to make substantial contributions to diverse projects
             </p>
             
             <br />
