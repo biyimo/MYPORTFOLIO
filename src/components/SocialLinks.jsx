@@ -41,7 +41,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill  size={30}/>
                 </>
             ), 
-            href: '/public/olamilekan.docx', 
+            href: '/olamilekan.docx', 
             style: 'rounded-br-md',
             download: true,
         }
