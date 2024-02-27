@@ -5,6 +5,7 @@ import navbar from '../assets/portfolio/navbar.jpg'
 import reactParallax from '../assets/portfolio/reactParallax.jpg'
 import reactSmooth from '../assets/portfolio/reactSmooth.jpg'
 import reactWeather from '../assets/portfolio/reactWeather.jpg'
+import applicationP from "../assets/portfolio/api7.jpg"
 
 const Portfolio = () => {
 
@@ -17,7 +18,8 @@ const Portfolio = () => {
         },
         {
             id: 2,
-            src: reactParallax
+            src: applicationP,
+            link: "https://documenter.getpostman.com/view/30558979/2sA2rCU1kq"
         },
         {
             id: 3,
